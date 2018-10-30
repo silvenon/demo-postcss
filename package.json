@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "postcss input.css --output output.css --watch"
+  },
+  "dependencies": {
+    "postcss-calc": "^7.0.1",
+    "postcss-cli": "^6.0.1",
+    "postcss-custom-properties": "^8.0.8"
+  }
+}

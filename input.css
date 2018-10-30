@@ -1,0 +1,8 @@
+:root {
+  --border-radius: 1rem;
+}
+
+.foo {
+  border-radius: var(--border-radius);
+  margin: var(--margin);
+}
